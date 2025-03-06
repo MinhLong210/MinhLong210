@@ -6,21 +6,7 @@
 
 ---
 
-### 📝 Publications
-- **Revisiting kernel attention with correlated gaussian process representation**  
-  **LM Bui**, TT Huu, D Dinh, TM Nguyen, TN Hoang
-  UAI 2024.  
-  [Paper](https://arxiv.org/abs/2502.20525) | [GitHub](https://github.com/MinhLong210/CGP-Transformers)
-
-- **A Probabilistic framework for pruning transformers via a finite admixture of keys**  
-  Tan M Nguyen, Tam Nguyen, **Long Bui**, Hai Do, Duy Khuong Nguyen, Dung D Le, Hung Tran-The, Nhat Ho, Stan J Osher, Richard G Baraniuk,
-  ICASSP 2023.  
-  [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10096107) | [GitHub](https://github.com/Fsoft-AIC/FiAKFormer)
-
----
-
 <div align="center">
-  <h3>🌐 Let's Connect!</h3>
   <a href="www.linkedin.com/in/long-minh-2b0084210"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
   <a href="https://scholar.google.com/citations?user=KuML-SMAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-blue?style=flat&logo=google-scholar"></a>
   <a href="mailto:minhlongbui2000@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail"></a>
